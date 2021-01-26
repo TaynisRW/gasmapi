@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(97, 97, 97);
+}
+/* Map Styles */
+#map{
+    height: 500px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+/* Main content */
+#contatti{
+    background-color: #1ca6d8;
+    letter-spacing: 2px;
+}
+
+#contatti a{
+    color: #fff;
+    text-decoration: none;
+}
+
+#author a{
+    color: #fff;
+    text-decoration: none;
+}
