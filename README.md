@@ -35,8 +35,7 @@
         * Routes
         * Public/Js
         * Resources
-17. Abre la aplicación en el navegador
-18. Registra un nuevo usuario y ya puedes comenzar a utilizar la aplicación
+17. Abre la aplicación en el navegador y comienza a ver como puedes mejorar el sistema
 
 ## License
 Licensed under the [MIT license](https://opensource.org/licenses/MIT).
